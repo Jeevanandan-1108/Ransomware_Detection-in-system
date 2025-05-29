@@ -1,0 +1,16 @@
+Top_Features
+dlllist.avg_dlls_per_proc
+handles.nevent
+handles.nsection
+svcscan.kernel_drivers
+handles.avg_handles_per_proc
+pslist.avg_handlers
+svcscan.nservices
+handles.nkey
+handles.nthread
+handles.nhandles
+dlllist.ndlls
+handles.nsemaphore
+svcscan.shared_process_services
+handles.nmutant
+ldrmodules.not_in_load_avg
